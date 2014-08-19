@@ -1,7 +1,7 @@
 wallbase-scraper
 ================
 
-Scrape wallpapers from wallbase.cc with the parameters of your choice.
+Scrape wallpapers from wallbase.cc & dota2wallpapers.com with the parameters of your choice.
 
 to-do
 =====
